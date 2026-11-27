@@ -1,0 +1,7 @@
+# Tested 2026-11-27 with: anthropic 2.14.0, httpx 0.29.0, python-dotenv 1.2.4, pytest 9.2.0, Python 3.12
+anthropic>=2.14
+httpx>=0.27
+python-dotenv>=1.0
+pytest>=8
+# Optional, for voice notes (docs/recipes/voice-notes.md):
+# faster-whisper
